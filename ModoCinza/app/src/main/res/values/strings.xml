@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Modo Cinza</string>
-    <string name="service_description">Detecta qual app está aberto para ligar a escala de cinza nos apps que você escolheu. Não lê o conteúdo da tela.</string>
-    <string name="mode_trigger">Ao abrir os apps escolhidos</string>
-</resources>
